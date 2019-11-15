@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Project/ZTVRtoolkit/CLVRtoolkit/Assets/Scenes/444.unity
+  isLoaded: 1
+  isActive: 1
